@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Host</name>
+    </assembly>
+    <members>
+        <member name="M:Host.Controllers.DashboardController.Create(ApplicationCore.Commands.CreateClienteCommand)">
+            <summary>
+            create
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
